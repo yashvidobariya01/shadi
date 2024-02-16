@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Gujrati",
+        "imdbID": "1",
+        "age": "22",
+        "image": "images/p1.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Marathi",
+        "imdbID": "2",
+        "age": "23",
+        "image": "images/p2.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "jain",
+        "imdbID": "3",
+        "age": "22",
+        "image": "images/p3.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Sikh",
+        "imdbID": "4",
+        "age": "20",
+        "image": "images/p4.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Muslim",
+        "imdbID": "5",
+        "age": "23",
+        "image": "images/p5.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Gujrati",
+        "imdbID": "6",
+        "age": "29",
+        "image": "images/p6.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Muslim",
+        "imdbID": "7",
+        "age": "25",
+        "image": "images/p7.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Punjabi",
+        "imdbID": "8",
+        "age": "23",
+        "image": "images/p8.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Sikh",
+        "imdbID": "9",
+        "age": "28",
+        "image": "images/p9.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Jain",
+        "imdbID": "10",
+        "age": "26",
+        "image": "images/p10.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "marathi",
+        "imdbID": "11",
+        "age": "20",
+        "image": "images/p11.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Parsi",
+        "imdbID": "12",
+        "age": "28",
+        "image": "images/p12.jpg"
+    },
+    {
+        "name": "Portrait of a Lady on Fire",
+        "categories": "Gujrati",
+        "imdbID": "13",
+        "age": "33",
+        "image": "images/p13.jpg"
+    }
+]
