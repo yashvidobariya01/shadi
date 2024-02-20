@@ -14,10 +14,10 @@ const Home = () => {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const response = await fetch('data.json');
-                if (!response.ok) {
-                    throw new Error('failed to fetch data');
-                }
+                // const response = await fetch('data.json');
+                // if (!response.ok) {
+                //     throw new Error('failed to fetch data');
+                // }
 
                 const data = ProfileData;
 
