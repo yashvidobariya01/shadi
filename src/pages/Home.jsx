@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import ProfileData from '../Data/data.json'
 import Profile from './Profile';
-import { NavLink } from 'react-router-dom';
-import Header from '../Navbar/Header';
+// import { NavLink } from 'react-router-dom';
+// import Header from '../Navbar/Header';
 
 
 const Home = () => {
