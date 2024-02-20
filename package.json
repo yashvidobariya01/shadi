@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "homepage": "https://yashvidobariya01.github.io/shadi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
